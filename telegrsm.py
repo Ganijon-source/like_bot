@@ -1,6 +1,6 @@
 import requests
 
-BOT_TOKEN = '7542472244:AAF_uzh6u6yy9wVZcGJ7r-Z9rhR51byUv04'
+BOT_TOKEN = ''
 BASE_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
 reactions = {
     'likes': 0,
